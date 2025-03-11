@@ -27,7 +27,7 @@ We took open-source and collected images and gave them a synthetic makeover to e
 
 ---
 
-### 3️⃣ **Curated Public Images: The Best of the Wild**
+### 3️⃣ **Collected Public Images: The Best of the Wild**
 - 🖼️ **From Signboards, Memes, and Posters**: We handpicked publicly available images focusing on curved, low-contrast, and multi-aligned text.
 - 🚫 **No Post-Processing**: What you see is what you get—no contrast or brightness adjustments here!
 
