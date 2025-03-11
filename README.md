@@ -59,15 +59,7 @@ We took open-source and collected images and gave them a synthetic makeover to e
 
 ---
 
-## 🌈 **Get Started Today!**
-Ready to take your scene text recognition models to the next level? Dive into the ISIScT_Dataset and experience the ultimate test of diversity, realism, and robustness. Let’s make text recognition smarter, together!
-
----
-
 📥 **Download the Dataset**: [Insert Link Here]  
 📚 **Documentation**: [Insert Link Here]  
 💬 **Have Questions?**: Reach out to us at [Insert Contact Info]  
-
----
-
-Happy Coding! 🚀  
+ 
