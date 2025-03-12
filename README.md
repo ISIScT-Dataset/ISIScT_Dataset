@@ -17,6 +17,18 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
   - **Distortions**: Blurring (thanks to motion or defocus), uneven lighting (shadows, artificial lights), and occlusions (text hiding behind objects).
   - **Perceptual Distortions**: Curved, angular, and irregularly shaped text that’ll make character segmentation a real brain teaser.
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <figure>
+    <img src="https://github.com/ISIScT-Dataset/ISIScT_Dataset/blob/main/images/305_occlusion.jpg" alt="Image 1" width="300" />
+    <figcaption>Occlution</figcaption>
+  </figure>
+  <figure>
+    <img src="https://github.com/ISIScT-Dataset/ISIScT_Dataset/blob/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="300" />
+    <figcaption>Overlapping text</figcaption>
+  </figure>
+</div>
+
+
 ---
 
 ### 2️⃣ **Synthetic Augmentation for Simulating Environmental Effects:**
