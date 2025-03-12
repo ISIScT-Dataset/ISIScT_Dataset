@@ -76,25 +76,4 @@ Weâ€™ve built this dataset using **three distinct methodologies** to ensure itâ€
 ---
 
 
-<!-- Tabs Navigation -->
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-    <button onclick="document.getElementById('images').style.display='block'; document.getElementById('code').style.display='none'; document.getElementById('results').style.display='none';">Images</button>
-    <button onclick="document.getElementById('code').style.display='block'; document.getElementById('images').style.display='none'; document.getElementById('results').style.display='none';">Code</button>
-    <button onclick="document.getElementById('results').style.display='block'; document.getElementById('images').style.display='none'; document.getElementById('code').style.display='none';">Results</button>
-</div>
-
-<!-- Tabs Content -->
-
-<div id="images" style="display: block;">
-  <h3>Images</h3>
-  <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/305_occlusion.jpg" width="300" height="200" />
-  <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" width="300" height="200" />
-</div>
-
-<div id="code" style="display: none;">
-  <h3>Code</h3>
-  ```python
-  # Example code for processing images
-  import cv2
-  image = cv2.imread('image.jpg')
-  print(image.shape)
+[Data](DATA.md) | [Code](code.md) | [Results](Result.md)
