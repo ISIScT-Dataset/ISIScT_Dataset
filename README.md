@@ -2,7 +2,7 @@
 
 /*Dive into the world of **Scene Text Recognition** with our meticulously crafted dataset, designed to push the boundaries of diversity, realism, and robustness. Whether you're a researcher, developer, or just a curious mind, this dataset is your gateway to exploring the complexities of text in the wild./
 ---
-![Carousel GIF](https://github.com/username/repository-name/raw/main/path/to/your/carousel.gif)
+![Carousel GIF](https://github.com/ISIScT-Dataset/ISIScT_Dataset/blob/main/4.gif)
 
 ---
 
