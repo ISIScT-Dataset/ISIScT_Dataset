@@ -3,7 +3,6 @@
 /*Dive into the world of **Scene Text Recognition** with our meticulously crafted dataset, designed to push the boundaries of diversity, realism, and robustness. Whether you're a researcher, developer, or just a curious mind, this dataset is your gateway to exploring the complexities of text in the wild. Let's break it down for you!*/
 
 ---
-/*## 🎯 **What Makes Our Dataset Unique?** */
 
 We’ve built this dataset using **three distinct methodologies** to ensure it’s as diverse and challenging as real-world scenarios. Here’s how we did it:
 
@@ -17,12 +16,10 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
 
 ---
 
-### 2️⃣ **Synthetic Augmentation: Adding a Touch of Drama**
+### 2️⃣ **Synthetic Augmentation:
 - 🌫️ **Fog**: Simulating faded visibility for that eerie, hard-to-read text.
 - 🌧️ **Rain**: Causing localized distortions that’ll test your model’s resilience.
 - ☀️ **Intense Sunlight**: Introducing glare and contrast reduction because, well, the sun doesn’t always play nice.
-
-We took open-source and collected images and gave them a synthetic makeover to ensure your models are ready for anything Mother Nature throws at them.
 
 ---
 
@@ -32,34 +29,4 @@ We took open-source and collected images and gave them a synthetic makeover to e
 
 ---
 
-## 📊 **Dataset at a Glance**
-- **Total Images**: 5,500
-- **Text Areas**: 6,048
-- **Breakdown**:
-  - **Captured Images**: 850
-  - **Synthetic Versions with Environmental Impacts**: 850
-  - **Synthetically Altered Images**:
-    - **TotalText**: 1,000
-    - **MLT19 Bengali-Hindi**: 2,000
-    - **MLT17 Bengali**: 800
 
----
-
-## 🧩 **Text Sections Defined**
-- **Consecutive, Readable Lines**: Text sections are defined as consecutive, readable lines.
-- **Misaligned Words**: These are segmented separately to keep things clean and organized.
-
----
-
-## 🚀 **Why Choose ISIScT_Dataset?**
-- **Diversity**: From multilingual text to environmental challenges, we’ve got it all.
-- **Realism**: Real-world images paired with synthetic augmentations ensure your models are battle-ready.
-- **Robustness**: With a mix of captured, synthetic, and curated images, your models will be tested like never before.
-
----
-
-📥 **Download the Dataset**: [Insert Link Here]  
-📚 **Documentation**: [Insert Link Here]  
-💬 **Have Questions?**: Reach out to us at [Insert Contact Info]  
-
- 
