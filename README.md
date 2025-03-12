@@ -19,21 +19,18 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/305_occlusion.jpg" alt="Image 1" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/305_occlusion.jpg" alt="Image 1" width="200" height="200" />
   </figure>
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="200" height="200" />
   </figure>
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/28_dark.jpg" alt="Image 2" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/28_dark.jpg" alt="Image 2" width="200" height="200" />
   </figure>
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/341_perceptual_distort.jpg" alt="Image 2" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/341_perceptual_distort.jpg" alt="Image 2" width="200" height="200" />
   </figure>   
 </div>
-
-
-
 
 
 ---
@@ -43,6 +40,20 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
 -  **Rain**: Causing localized distortions that’ll test your model’s resilience.
 -  **Intense Sunlight**: Introducing glare and contrast reduction because, well, the sun doesn’t always play nice.
 
+<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
+  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img254_sunny.jpg" alt="Image 1" width="200" height="200" />
+  </figure>
+  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img224_foggy.jpg" alt="Image 2" width="200" height="200" />
+  </figure>
+  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/572_rainy.jpg" alt="Image 2" width="200" height="200" />
+  </figure>
+  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img_6700_foggy.jpg" alt="Image 2" width="200" height="200" />
+  </figure>   
+</div>
 ---
 
 ### 3️⃣ **Collected Public Images:**
