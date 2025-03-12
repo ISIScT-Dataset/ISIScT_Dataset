@@ -76,22 +76,25 @@ Weâ€™ve built this dataset using **three distinct methodologies** to ensure itâ€
 ---
 
 
-<details>
-  <summary><strong>Images</strong></summary>
+<!-- Tabs Navigation -->
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <button onclick="document.getElementById('images').style.display='block'; document.getElementById('code').style.display='none'; document.getElementById('results').style.display='none';">Images</button>
+    <button onclick="document.getElementById('code').style.display='block'; document.getElementById('images').style.display='none'; document.getElementById('results').style.display='none';">Code</button>
+    <button onclick="document.getElementById('results').style.display='block'; document.getElementById('images').style.display='none'; document.getElementById('code').style.display='none';">Results</button>
+</div>
 
-  ### Image 1
-  here is image1
-  
-  ### Image 2
-  here is image2
-</details>
+<!-- Tabs Content -->
 
-<details>
-  <summary><strong>Code</strong></summary>
+<div id="images" style="display: block;">
+  <h3>Images</h3>
+  <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/305_occlusion.jpg" width="300" height="200" />
+  <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" width="300" height="200" />
+</div>
 
+<div id="code" style="display: none;">
+  <h3>Code</h3>
   ```python
   # Example code for processing images
   import cv2
   image = cv2.imread('image.jpg')
   print(image.shape)
-
