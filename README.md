@@ -76,3 +76,22 @@ Weâ€™ve built this dataset using **three distinct methodologies** to ensure itâ€
 ---
 
 
+<details>
+  <summary><strong>Images</strong></summary>
+
+  ### Image 1
+  here is image1
+  
+  ### Image 2
+  here is image2
+</details>
+
+<details>
+  <summary><strong>Code</strong></summary>
+
+  ```python
+  # Example code for processing images
+  import cv2
+  image = cv2.imread('image.jpg')
+  print(image.shape)
+
