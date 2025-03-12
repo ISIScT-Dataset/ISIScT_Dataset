@@ -19,14 +19,15 @@ Weâ€™ve built this dataset using **three distinct methodologies** to ensure itâ€
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github.com/ISIScT-Dataset/ISIScT_Dataset/blob/main/images/305_occlusion.jpg" alt="Image 1" width="300" height="200" />
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/305_occlusion.jpg" alt="Image 1" width="300" height="200" />
     <figcaption>Occlusion</figcaption>
   </figure>
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github.com/ISIScT-Dataset/ISIScT_Dataset/blob/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="300" height="200" />
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="300" height="200" />
     <figcaption>Overlapping text</figcaption>
   </figure>
 </div>
+
 
 
 
