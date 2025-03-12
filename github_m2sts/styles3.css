@@ -1,0 +1,119 @@
+/* styles2.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    flex-direction: column;
+}
+
+/* Wrapper for the carousel - this will create the border/frame around the carousel */
+.carousel-wrapper {
+    border: 2px solid #333; /* The border is the frame */
+    padding: 10px; /* Adds space between the border and the carousel */
+    border-radius: 10px; /* Optional: Round the corners of the border */
+    overflow: hidden; /* Prevent images from overflowing */
+    width: 440px; /* Fixed width to match the container size */
+    background-color: black; /* Background color inside the frame */
+}
+
+/* Carousel container - this holds the sliding images */
+.carousel-container {
+    width: 440px; /* Fixed width to match the frame width */
+    overflow: hidden; /* Prevent overflow of images */
+    position: relative; /* Needed for dot positioning */
+}
+
+/* The slide moves inside this container */
+.carousel-slide {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+/* Individual image frame */
+.carousel-frame {
+    width: 200px; /* Passport size width (200px) */
+    height: 200px; /* Passport size height (200px) */
+    flex-shrink: 0; /* Prevent shrinking of images */
+    display: flex;
+    justify-content: center; /* Center images horizontally */
+    align-items: center; /* Center images vertically */
+    margin-right: 20px; /* Add space between images */
+}
+
+/* Ensuring images fit within their frame */
+.carousel-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire frame without distortion */
+}
+
+/* Dots below the carousel */
+.carousel-dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    position: relative;
+}
+
+.dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin: 0 5px;
+    background-color: #ccc;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.dot.active {
+    background-color: #333; /* Active dot color */
+}
+
+.dot.pulse {
+    animation: pulse 1s infinite;
+}
+
+/* Pulse effect for the dot */
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.5);
+        background-color: #ff5733;
+    }
+    100% {
+        transform: scale(1);
+        background-color: #333;
+    }
+}
+
+/* Positioning and animating the dots to appear as scrolling */
+.carousel-dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    position: relative;
+}
+
+.carousel-dots .dot {
+    animation: scroll 6s linear infinite; /* This animation makes the dots scroll from left to right */
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0); /* Starting point */
+    }
+    100% {
+        transform: translateX(100%); /* Ending point */
+    }
+}
+
