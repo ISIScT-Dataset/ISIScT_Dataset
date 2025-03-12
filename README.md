@@ -1,6 +1,8 @@
 # 🌟 M2STS Resources 🌟
 
-/*Dive into the world of **Scene Text Recognition** with our meticulously crafted dataset, designed to push the boundaries of diversity, realism, and robustness. Whether you're a researcher, developer, or just a curious mind, this dataset is your gateway to exploring the complexities of text in the wild. Let's break it down for you!*/
+/*Dive into the world of **Scene Text Recognition** with our meticulously crafted dataset, designed to push the boundaries of diversity, realism, and robustness. Whether you're a researcher, developer, or just a curious mind, this dataset is your gateway to exploring the complexities of text in the wild./
+---
+![Carousel GIF](https://github.com/username/repository-name/raw/main/path/to/your/carousel.gif)
 
 ---
 
@@ -16,14 +18,14 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
 
 ---
 
-### 2️⃣ **Synthetic Augmentation:
+### 2️⃣ **Synthetic Augmentation for Simulating Environmental Effects:**
 - 🌫️ **Fog**: Simulating faded visibility for that eerie, hard-to-read text.
 - 🌧️ **Rain**: Causing localized distortions that’ll test your model’s resilience.
 - ☀️ **Intense Sunlight**: Introducing glare and contrast reduction because, well, the sun doesn’t always play nice.
 
 ---
 
-### 3️⃣ **Collected Public Images: The Best of the Wild**
+### 3️⃣ **Collected Public Images: **
 - 🖼️ **From Signboards, Memes, and Posters**: We handpicked publicly available images focusing on curved, low-contrast, and multi-aligned text.
 - 🚫 **No Post-Processing**: What you see is what you get—no contrast or brightness adjustments here!
 
