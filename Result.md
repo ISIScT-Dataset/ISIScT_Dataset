@@ -1,1 +1,1 @@
-Results wll be shared on acceptance
+Results wll be shared after publication/acceptance
