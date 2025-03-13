@@ -1,1 +1,1 @@
-Codes will be shared publically on acceptance
+Codes will be shared after publication
