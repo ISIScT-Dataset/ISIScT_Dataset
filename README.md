@@ -15,7 +15,7 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
 -  Challenges Galore:
   - Curved, Multi-Oriented, and Multilingual Text: Think English, Hindi, and Bengali text in all shapes and sizes.
   - Distortions: Blurring (thanks to motion or defocus), uneven lighting (shadows, artificial lights), and occlusions (text hiding behind objects).
-  - Perceptual Distortions**: Curved, angular, and irregularly shaped text that’ll make character segmentation a real brain teaser.
+  - Perceptual Distortions: Apparent warping or change in size and shape of objects due to the photographer's distance and camera angle, rather than the lens itself.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
