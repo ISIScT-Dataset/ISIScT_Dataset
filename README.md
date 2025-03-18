@@ -32,10 +32,10 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
     </td>
   </tr>
   <tr>
-    <td>Multi-lingual occluded text</td>
-    <td>    Overlapped text</td>
-    <td>    Uneven lighting </td>
-    <td> Perspective distortion</td>
+    <td style="text-align: center; padding-top: 5px;"> Multi-lingual occluded text</td>
+    <td style="text-align: center; padding-top: 5px;"> Overlapped text</td>
+    <td style="text-align: center; padding-top: 5px;"> Uneven lighting </td>
+    <td style="text-align: center; padding-top: 5px;"> Perspective distortion</td>
   </tr>
 </table>
 
@@ -62,10 +62,10 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
     </td>
   </tr>
   <tr>
-    <td>Sunlight effect on TotalText sample</td>
-    <td>Fogg effect on TotalText sample</td>
-    <td>Rain effect on MLT19 sample</td>
-    <td>Fogg effect on MLT17 sample</td>
+    <td style="text-align: center; padding-top: 5px;">Sunlight effect on TotalText sample</td>
+    <td style="text-align: center; padding-top: 5px;">Fogg effect on TotalText sample</td>
+    <td style="text-align: center; padding-top: 5px;">Rain effect on MLT19 sample</td>
+    <td style="text-align: center; padding-top: 5px;">Fogg effect on MLT17 sample</td>
   </tr>
 </table>
 
@@ -87,12 +87,6 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
     <td>
       <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/375.jpg" alt="Image 4" width="200" height="200">
     </td>
-  </tr>
-  <tr>
-    <td>Caption for Image 1</td>
-    <td>Caption for Image 2</td>
-    <td>Caption for Image 3</td>
-    <td>Caption for Image 4</td>
   </tr>
 </table>
 
