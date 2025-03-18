@@ -40,30 +40,34 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
 </table>
 
 
-
-
-
-
 ### 2️⃣ Images under simulated Environmnetal Distortion:
 -  Fog: Simulating faded visibility for that eerie, hard-to-read text.
 -  Rain: Causing localized distortions that’ll test your model’s resilience.
 -  Intense Sunlight: Introducing glare and contrast reduction because, well, the sun doesn’t always play nice.
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img254_sunny.jpg" alt="Image 1" width="200" height="200" />
-  </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img224_foggy.jpg" alt="Image 2" width="200" height="200" />
-  </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/tr_img_08014_rainy.jpg" alt="Image 2" width="200" height="200" />
-  </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img_6700_foggy.jpg" alt="Image 2" width="200" height="200" />
-  </figure>   
-</div>
 
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img254_sunny.jpg" alt="Image 1" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img224_foggy.jpg" alt="Image 2" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/tr_img_08014_rainy.jpg" alt="Image 3" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img_6700_foggy.jpg" alt="Image 4" width="200" height="200">
+    </td>
+  </tr>
+  <tr>
+    <td>Caption for Image 1</td>
+    <td>Caption for Image 2</td>
+    <td>Caption for Image 3</td>
+    <td>Caption for Image 4</td>
+  </tr>
+</table>
 
 ### 3️⃣ **Images collected from the Internet:**
 -  **From Signboards, Memes, and Posters**: We handpicked publicly available images focusing on curved, low-contrast, and multi-aligned text.
