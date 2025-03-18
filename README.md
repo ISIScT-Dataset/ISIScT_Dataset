@@ -1,4 +1,4 @@
-#  M2STS Resources 
+#  M2STS Resources (under constructioin)
 
 Dive into the world of Scene Text Recognition with our meticulously crafted dataset, designed to push the boundaries of diversity, realism, and robustness. Whether you're a researcher, developer, or just a curious mind, this dataset is your gateway to exploring the complexities of text in the wild.
 ---
@@ -7,7 +7,7 @@ Dive into the world of Scene Text Recognition with our meticulously crafted data
 </p>
 ---
 
-We’ve built this dataset using **three distinct methodologies** to ensure it’s as diverse and challenging as real-world scenarios. Here’s how we did it:
+We’ve built this dataset using **three distinct approaches** to ensure it’s as diverse and challenging as real-world scenarios. Here’s how we did it:
 
 ### 1️⃣ Real-World Images: Capturing the Chaos of Everyday Life
 -  Captured with Mobile Cameras: We snapped images using various mobile cameras to bring you the raw, unfiltered reality of text in the wild.
@@ -15,7 +15,7 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
 -  Challenges Galore:
   - Curved, Multi-Oriented, and Multilingual Text: Think English, Hindi, and Bengali text in all shapes and sizes.
   - Distortions: Blurring (thanks to motion or defocus), uneven lighting (shadows, artificial lights), and occlusions (text hiding behind objects).
-  - Perceptual Distortions: Apparent warping or change in size and shape of objects due to the photographer's distance and camera angle, rather than the lens itself.
+  - Perspective Distortions: Apparent warping or change in size and shape of objects due to the photographer's distance and camera angle, rather than the lens itself.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -35,7 +35,7 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
 
 ---
 
-### 2️⃣ Synthetic Augmentation for Simulating Environmental Effects:
+### 2️⃣ Images under simulated Environmnetal Distortion:
 -  Fog: Simulating faded visibility for that eerie, hard-to-read text.
 -  Rain: Causing localized distortions that’ll test your model’s resilience.
 -  Intense Sunlight: Introducing glare and contrast reduction because, well, the sun doesn’t always play nice.
@@ -56,7 +56,7 @@ We’ve built this dataset using **three distinct methodologies** to ensure it�
 </div>
 ---
 
-### 3️⃣ **Collected Public Images:**
+### 3️⃣ **Images collected from the Internet:**
 -  **From Signboards, Memes, and Posters**: We handpicked publicly available images focusing on curved, low-contrast, and multi-aligned text.
 -  **No Post-Processing**: What you see is what you get—no contrast or brightness adjustments here!
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
