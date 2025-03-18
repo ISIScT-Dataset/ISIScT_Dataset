@@ -18,23 +18,24 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
 
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+  <figure style="text-align: center; width: 200px;">
     <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/000_2710.jpg" alt="Image 1" width="200" height="200" />
     <figcaption>Caption for Image 1</figcaption>
   </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+  <figure style="text-align: center; width: 200px;">
     <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="200" height="200" />
     <figcaption>Caption for Image 2</figcaption>
   </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+  <figure style="text-align: center; width: 200px;">
     <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/28_dark.jpg" alt="Image 3" width="200" height="200" />
     <figcaption>Caption for Image 3</figcaption>
   </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+  <figure style="text-align: center; width: 200px;">
     <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/341_perceptual_distort.jpg" alt="Image 4" width="200" height="200" />
     <figcaption>Caption for Image 4</figcaption>
   </figure>   
 </div>
+
 
 
 
