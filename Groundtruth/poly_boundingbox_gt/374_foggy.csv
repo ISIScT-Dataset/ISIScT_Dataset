@@ -1,0 +1,6 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+374.jpg,41296,"{}",5,0,"{""name"":""polygon"",""all_points_x"":[178,177,555,553],""all_points_y"":[85,127,132,88]}","{}"
+374.jpg,41296,"{}",5,1,"{""name"":""polygon"",""all_points_x"":[135,135,310,310],""all_points_y"":[704,771,774,704]}","{}"
+374.jpg,41296,"{}",5,2,"{""name"":""polygon"",""all_points_x"":[172,177,358,356],""all_points_y"":[774,848,849,769]}","{}"
+374.jpg,41296,"{}",5,3,"{""name"":""polygon"",""all_points_x"":[137,353,350,133],""all_points_y"":[919,916,851,844]}","{}"
+374.jpg,41296,"{}",5,4,"{""name"":""polygon"",""all_points_x"":[212,217,461,460],""all_points_y"":[921,1009,1008,903]}","{}"

@@ -1,0 +1,5 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+305.jpg,142620,"{""caption"":undefined,""public_domain"":undefined,""image_url"":undefined}",4,0,"{""name"":""polygon"",""all_points_x"":[630,920,920,634],""all_points_y"":[1208,1184,1135,1157]}","{}"
+305.jpg,142620,"{""caption"":undefined,""public_domain"":undefined,""image_url"":undefined}",4,1,"{""name"":""polygon"",""all_points_x"":[949,949,1297,1297],""all_points_y"":[1119,1193,1170,1099]}","{}"
+305.jpg,142620,"{""caption"":undefined,""public_domain"":undefined,""image_url"":undefined}",4,2,"{""name"":""polygon"",""all_points_x"":[958,1288,1286,955],""all_points_y"":[1248,1226,1182,1204]}","{}"
+305.jpg,142620,"{""caption"":undefined,""public_domain"":undefined,""image_url"":undefined}",4,3,"{""name"":""polygon"",""all_points_x"":[751,916,918,729],""all_points_y"":[1257,1250,1201,1215]}","{}"
