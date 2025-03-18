@@ -33,8 +33,8 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
   </tr>
   <tr>
     <td>Multi-lingual occluded text</td>
-    <td>  Overlapped text</td>
-    <td>  Uneven lighting </td>
+    <td>    Overlapped text</td>
+    <td>    Uneven lighting </td>
     <td> Perspective distortion</td>
   </tr>
 </table>
@@ -64,8 +64,8 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
   <tr>
     <td>Sunlight effect on TotalText sample</td>
     <td>Fogg effect on TotalText sample</td>
-    <td>Rain effect on MLT19</td>
-    <td>Fogg effect on MLT17</td>
+    <td>Rain effect on MLT19 sample</td>
+    <td>Fogg effect on MLT17 sample</td>
   </tr>
 </table>
 
