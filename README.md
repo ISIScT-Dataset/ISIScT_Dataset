@@ -16,25 +16,29 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
   - Distortions: Blurring (thanks to motion or defocus), uneven lighting (shadows, artificial lights), and occlusions (text hiding behind objects).
   - Perspective Distortions: Apparent warping or change in size and shape of objects due to the photographer's distance and camera angle, rather than the lens itself.
 
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/000_2710.jpg" alt="Image 1" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/28_dark.jpg" alt="Image 3" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/341_perceptual_distort.jpg" alt="Image 4" width="200" height="200">
+    </td>
+  </tr>
+  <tr>
+    <td>Caption for Image 1</td>
+    <td>Caption for Image 2</td>
+    <td>Caption for Image 3</td>
+    <td>Caption for Image 4</td>
+  </tr>
+</table>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center;">
-  <figure>
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/000_2710.jpg" alt="Image 1" width="200" height="200">
-    <figcaption>Captionn for Image 1</figcaption>
-  </figure>
-  <figure>
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="200" height="200">
-    <figcaption>Captionn for Image 2</figcaption>
-  </figure>
-  <figure>
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/28_dark.jpg" alt="Image 3" width="200" height="200">
-    <figcaption>Captionn for Image 3</figcaption>
-  </figure>
-  <figure>
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/341_perceptual_distort.jpg" alt="Image 4" width="200" height="200">
-    <figcaption>Captionn for Image 4</figcaption>
-  </figure>
-</div>
 
 
 
