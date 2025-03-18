@@ -72,20 +72,31 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
 ### 3️⃣ **Images collected from the Internet:**
 -  **From Signboards, Memes, and Posters**: We handpicked publicly available images focusing on curved, low-contrast, and multi-aligned text.
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/574.jpeg" alt="Image 1" width="200" height="200" />
-  </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/572.jpeg" alt="Image 2" width="200" height="200" />
-  </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/374.jpg" alt="Image 2" width="200" height="200" />
-  </figure>
-  <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/375.jpg" alt="Image 2" width="200" height="200" />
-  </figure>   
-</div>
+
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/574.jpeg" alt="Image 1" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/572.jpeg" alt="Image 2" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/374.jpg" alt="Image 3" width="200" height="200">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/375.jpg" alt="Image 4" width="200" height="200">
+    </td>
+  </tr>
+  <tr>
+    <td>Caption for Image 1</td>
+    <td>Caption for Image 2</td>
+    <td>Caption for Image 3</td>
+    <td>Caption for Image 4</td>
+  </tr>
+</table>
+
+
 No Post-Processing: What you see is what you get—no contrast or brightness adjustments here!
 
 
