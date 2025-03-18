@@ -1,11 +1,10 @@
 #  M2STS Resources (under constructioin)
 
 Dive into the world of Scene Text Recognition with our meticulously crafted dataset, designed to push the boundaries of diversity, realism, and robustness. Whether you're a researcher, developer, or just a curious mind, this dataset is your gateway to exploring the complexities of text in the wild.
----
+
 <p align="center">
    <img src="https://github.com/ISIScT-Dataset/ISIScT_Dataset/blob/main/4.gif" alt="Carousel GIF" />
 </p>
----
 
 We’ve built this dataset using **three distinct approaches** to ensure it’s as diverse and challenging as real-world scenarios. Here’s how we did it:
 
@@ -19,7 +18,7 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/305_occlusion.jpg" alt="Image 1" width="200" height="200" />
+    <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/000_2710.jpg" alt="Image 1" width="200" height="200" />
   </figure>
   <figure style="text-align: center; display: flex; flex-direction: column; align-items: center;">
     <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/DSC00314_overlapping_text.jpg" alt="Image 2" width="200" height="200" />
@@ -32,8 +31,6 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
   </figure>   
 </div>
 
-
----
 
 ### 2️⃣ Images under simulated Environmnetal Distortion:
 -  Fog: Simulating faded visibility for that eerie, hard-to-read text.
@@ -54,7 +51,7 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
     <img src="https://raw.githubusercontent.com/ISIScT-Dataset/ISIScT_Dataset/main/images/img_6700_foggy.jpg" alt="Image 2" width="200" height="200" />
   </figure>   
 </div>
----
+
 
 ### 3️⃣ **Images collected from the Internet:**
 -  **From Signboards, Memes, and Posters**: We handpicked publicly available images focusing on curved, low-contrast, and multi-aligned text.
@@ -74,7 +71,7 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
   </figure>   
 </div>
 No Post-Processing: What you see is what you get—no contrast or brightness adjustments here!
----
+
 
 
 <!-- [Data](DATA.md) | [Code](code.md) | [Results](Result.md) -->
