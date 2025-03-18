@@ -33,9 +33,9 @@ We’ve built this dataset using **three distinct approaches** to ensure it’s 
   </tr>
   <tr>
     <td style="text-align: center; padding-top: 5px;"> Multi-lingual occluded text</td>
-    <td style="text-align: center; padding-top: 5px;"> Overlapped text</td>
-    <td style="text-align: center; padding-top: 5px;"> Uneven lighting </td>
-    <td style="text-align: center; padding-top: 5px;"> Perspective distortion</td>
+    <td style="text-align: center; padding-top: 5px;"> Image with Overlapped text</td>
+    <td style="text-align: center; padding-top: 5px;"> Image with Uneven lighting </td>
+    <td style="text-align: center; padding-top: 5px;"> Image with perspective distortion</td>
   </tr>
 </table>
 
